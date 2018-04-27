@@ -1,0 +1,71 @@
+.myrow.div{
+    width:100%;
+}
+.hot-left{
+    border: 1px solid #000000;
+}
+.hot-right{
+    padding:0;
+    border: 1px solid #3e8f3e;
+}
+.hot1,.hot2,.hot3,.hot4{
+    border: 1px solid #b92c28;
+}
+.biaozhi{
+    padding:0;
+}
+.biaozhi div{
+    border: 1px solid #b92c28;
+}
+.jingcai{
+    padding:0;
+}
+
+.jingcai div{
+    border: 1px solid #b92c28;
+}
+
+.wangdain{
+    padding:0;
+}
+.wangdain div{
+    border: 1px solid #b92c28;
+}
+
+
+
+.up,.down{
+    border: 1px solid #b92c28;
+}
+
+.type_left>.col-xs-3{
+    border: 1px solid #b92c28;
+}
+.type_right>.col-xs-3{
+    border: 1px solid #b92c28;
+}
+#myTabContent{
+    border: 1px solid #3e8f3e;
+}
+#myTab{
+    float: right;
+}
+.clear{
+    clear:both;
+}
+
+#myTab{
+    overflow: hidden;
+}
+.spl{
+    border:1px solid #985f0d;
+}
+.hot-middle,.hot-right{
+    padding:0px;
+}
+.type_left{
+    padding:0px;
+}
+.type_right{
+    padding: 0px;
+}
